@@ -1,0 +1,18 @@
+{
+	"name": "UVU - Canvas",
+	"description": "Access Canvas",
+	"version": "0.0.1",
+	"app": {
+		"urls": [
+			"*://learn-uvu.uen.org/",
+		],
+		"launch": {
+			"web_url": "https://learn-uvu.uen.org/"
+		}
+	},
+	"icons": {
+		"128": "uvu-logo.png"
+	},
+	"permissions": [
+	]
+}
